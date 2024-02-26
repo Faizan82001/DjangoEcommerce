@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-i#)=!l#zga#ej1ivcqe9c3n3j6$^b7v!c*ft#z#v!p=oifzexp
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://djangoecommerce-25id.onrender.com/'
+    'djangoecommerce-25id.onrender.com'
 ]
 
 
